@@ -9,13 +9,7 @@ package refactorizar;
  *
  * @author dam
  */
-public class Refactorizar {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+public class Clase2 {
+    private String mensaje1 = "Esta es";
+    private String mensaje2 = " la clase número 2";
 }
